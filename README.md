@@ -74,4 +74,13 @@ userid
 password
 locale
 
+-- Success Response --
+
+{
+    "userid": "userid",
+    "username": "username",
+    "email": "sample@sample.com",
+    "status": "success",
+    "error": ""
+}
 
